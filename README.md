@@ -1,0 +1,1 @@
+# mmpretrain-resnet50-fruit30classification

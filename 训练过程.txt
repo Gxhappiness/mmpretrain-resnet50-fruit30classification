@@ -1,0 +1,12 @@
+详情见resnet50fruit30.py
+
+训练环节：
+
+终端命令行先进入mmpretrain目录下，再进入到projects/fruit30classification目录——
+cd projects/fruit30classification
+
+
+
+
+训练过程——
+mim train mmpretrain resnet50fruit30.py --work-dir=./exp
